@@ -31,7 +31,8 @@ Each repository serves a specific purpose in the Praxis ecosystem. Choose the on
 
 
 📖 **Documentation**
-**[praxis-docs](https://github.com/prxs-ai/praxis-docs)**
+
+**Link Coming Soon**
 
 - Documentation site (docs.prxs.xyz)
 - Getting started guides
@@ -40,7 +41,8 @@ Each repository serves a specific purpose in the Praxis ecosystem. Choose the on
   
 
 🛠️ **Agent Template**
-**[praxis-agent-template](https://github.com/prxs-ai/praxis-agent-template)**
+
+**Link Coming Soon**
 
 - Boilerplate code for new agents
 - Development tooling and CI
@@ -48,7 +50,8 @@ Each repository serves a specific purpose in the Praxis ecosystem. Choose the on
   
 
 🎯**Agent Examples**
-**[praxis-agent-examples](https://github.com/prxs-ai/praxis-agent-examples)**
+
+**Link Coming Soon**
 
 - Working agent implementations
 - Integration examples
@@ -57,7 +60,8 @@ Each repository serves a specific purpose in the Praxis ecosystem. Choose the on
 
 
 🔧 **Tool Template**
-**[praxis-tool-template](https://github.com/prxs-ai/praxis-tool-template)**
+
+**Link Coming Soon**
 
 - Boilerplate code for new tools
 - Ray integration and CI setup
@@ -260,7 +264,9 @@ We are committed to making participation in our project a harassment-free experi
 If you experience or witness unacceptable behavior, please report it to the project maintainers. All reports will be handled confidentially.
 
 
-**For the full Code of Conduct:** [CODE_OF_CONDUCT.md](https://github.com/prxs-ai/praxis-docs/blob/main/CODE_OF_CONDUCT.md)
+**For the full Code of Conduct:** 
+
+**Link Coming Soon**
 
 ---
 
