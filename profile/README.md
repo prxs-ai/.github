@@ -1,3 +1,5 @@
+![praxis-logo](praxis-logo.jpg)
+
 # 🌐 Praxis-AI
 
 **Praxis** transforms isolated AI tools into a **permission-less mesh**, where agents:  
